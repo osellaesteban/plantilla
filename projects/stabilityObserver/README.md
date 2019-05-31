@@ -13,3 +13,5 @@ Existe además una comunicación con UART para realizar cambios en la configurac
 
 Al presionar **TEC1** se genera una interrupción y se graban los últimos datos generados en la tarjeta SD.
 
+
+Demostración en https://youtu.be/k6DzA_-GR1w
